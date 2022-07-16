@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eitan-Leviev
-- 🌱 Currently pursuing my B.Sc. of Computer Science at Hebrew University
+- 🌱 Currently pursuing my B.Sc. in Computer Science at Hebrew University
 - 📫 You can reach me on Linkedin: www.linkedin.com/in/eitan-leviev
 
 <!---
